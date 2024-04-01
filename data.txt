@@ -1,1 +1,0 @@
-mongodb+srv://alliefizz:zahrakamila@cluster0.ufw8sg2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
